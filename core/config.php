@@ -17,8 +17,8 @@ $config = array(
     'robots'            =>  'noindex, nofollow',
     'title'             =>  'SMS Spoof - ',
     'description'       =>  'Spoof SMS\'',
-    // 'AccountSid'        =>  '',
-    // 'AuthToken'         =>  ''
+     'AccountSid'        =>  'AC31f0bfc08e09ef6c56d79322e0ec92b3',
+     'AuthToken'         =>  'bed2a3a888dd60f247aa287eb169a406'
     // 
     // 
     // **Account Information**
